@@ -10,7 +10,8 @@ exports['testa primeiro anagrama de 3 letras'] = function() {
 }();
 
 exports['teste do biro'] = function() {
-    assert.deepEqual(["biro","bior","brio","broi",                       "boir","bori","ibro","ibor",
+    assert.deepEqual(["biro","bior","brio","broi",
+    "boir","bori","ibro","ibor",
     "irbo","irob","iobr","iorb","rbio",
     "rboi","ribo","riob","roib",
     "robi","obir","obri","oibr",
